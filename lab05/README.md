@@ -111,20 +111,6 @@ git add .
 git commit -m "Added model evaluation and results"
 git push -u origin main
 
-##  Directory Structure
-.
-├── data/
-│   └── winequality-red.csv
-├── notebooks/
-│   └── wine-ensemble-analysis.ipynb
-├── images/
-│   ├── wine-banner.png
-│   ├── confusion-matrix.png
-│   ├── feature-importance.png
-│   └── feature-distribution.png
-├── requirements.txt
-└── README.md
-
 
 ## References
 UC Irvine (https://archive.ics.uci.edu/dataset/186/wine+quality)
