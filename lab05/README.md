@@ -129,4 +129,3 @@ git push -u origin main
 ## References
 UC Irvine (https://archive.ics.uci.edu/dataset/186/wine+quality)
 
-[def]: images/wine-banner.png
