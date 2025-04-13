@@ -27,8 +27,6 @@ This project classifies **red wine quality** based on its physicochemical proper
 - **Features:** 11 numerical (e.g., alcohol, pH, citric acid)  
 - **Target:** Wine quality (classified into 0, 1, 2)  
 
-![Feature Distribution](images/feature-distribution.png)
-
 ---
 
 ## 🔧 Methodology
@@ -76,8 +74,8 @@ This project classifies **red wine quality** based on its physicochemical proper
 
 > 📌 Replace XX with actual scores after training.
 
-![Confusion Matrix](images/confusion-matrix.png)  
-![Feature Importance](images/feature-importance.png)
+![alt text](image-1.png) 
+![alt text](image-2.png)
 
 ---
 
@@ -114,7 +112,7 @@ git commit -m "Added model evaluation and results"
 git push -u origin main
 
 ##  Directory Structure
-
+.
 ├── data/
 │   └── winequality-red.csv
 ├── notebooks/
@@ -126,6 +124,7 @@ git push -u origin main
 │   └── feature-distribution.png
 ├── requirements.txt
 └── README.md
+
 
 ## References
 UC Irvine (https://archive.ics.uci.edu/dataset/186/wine+quality)
